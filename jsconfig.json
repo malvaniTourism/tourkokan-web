@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/pages/*": [
+                "pages/*"
+            ],
+            "@/customComponents/*": [
+                "components/custom/*"
+            ],
+            "@/commonComponents/*": [
+                "components/common/*"
+            ],
+            "@/hooks/*": [
+                "hooks/*"
+            ],
+            "@/utils/*": [
+                "utils/*"
+            ],
+            "@/contexts/*": [
+                "contexts/*"
+            ],
+            "@/navigations/*": [
+                "navigations/"
+            ],
+            "@/images/*": [
+                "assets/images/*"
+            ]
+        }
+    }
+}
